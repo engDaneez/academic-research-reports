@@ -1,0 +1,29 @@
+{
+  "document_type": "graduation",
+  "language": "ar",
+  "title": "[عنوان بحث التخرج]",
+  "cover": {
+    "institution": "[اسم الجامعة]",
+    "college": "[اسم الكلية]",
+    "department": "[القسم العلمي]",
+    "prepared_by": "[اسم الباحث]",
+    "supervisor": "[اسم المشرف]",
+    "academic_year": "[السنة الدراسية]"
+  },
+  "toc": true,
+  "front_matter": [
+    {"title": "الإهداء", "paragraphs": ["[نص الإهداء بعد موافقة الطالب]"]},
+    {"title": "الشكر والتقدير", "paragraphs": ["[نص الشكر والتقدير]"]},
+    {"title": "الملخص", "paragraphs": ["[ملخص البحث يُكتب بعد اكتمال البحث وبياناته]"]}
+  ],
+  "sections": [
+    {"title": "المقدمة", "level": 1, "paragraphs": ["[المشكلة والأهداف والأهمية والخطة والمنهج]"]},
+    {"title": "منهجية البحث", "level": 1, "paragraphs": ["[تصميم الدراسة وحدودها وأدواتها]"]},
+    {"title": "المبحث الأول", "level": 1, "paragraphs": ["[إطار نظري موثّق]"]},
+    {"title": "المطلب الأول", "level": 2, "paragraphs": ["[محتوى موثّق بمصادر]"]},
+    {"title": "الاستنتاجات", "level": 1, "paragraphs": ["[تُستخلص من نتائج البحث الفعلية]"]},
+    {"title": "التوصيات", "level": 1, "paragraphs": ["[توصيات مرتبطة بالاستنتاجات]"]},
+    {"title": "الخاتمة", "level": 1, "paragraphs": ["[خلاصة البحث]"]}
+  ],
+  "references": []
+}
